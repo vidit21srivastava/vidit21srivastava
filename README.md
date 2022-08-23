@@ -61,8 +61,6 @@
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/matlab.png" alt="matlab" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/simulink.png" alt="simulink" height="50" /> 
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/opensim.png" alt="opensim" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />  
 </div>
 
