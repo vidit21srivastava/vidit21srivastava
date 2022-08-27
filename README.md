@@ -57,10 +57,10 @@
 
 ### Softwares and Utilities  
 <div align="center">  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ros.png" alt="ros" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/docker.png" alt="docker" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/matlab.png" alt="matlab" height="50" />  
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ros.png" alt="ros" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/octave.png" alt="octave" height="50" />  
 </div>
