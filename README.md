@@ -22,7 +22,7 @@
 
 
 - :sparkles: I'm currently developing algorithm to aid robot learning and autonomy.
-- :trollface: Ping me up if you want to talk about robots, ai, life, music, movies and memes
+- 💻 Exploring data structures and algorithm.
 
 <br/>  
 
