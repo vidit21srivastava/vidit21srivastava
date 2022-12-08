@@ -22,7 +22,7 @@
 
 
 - :sparkles: I'm currently developing algorithm to aid robot learning and autonomy.
-- 💻 Exploring data structures and algorithm.
+- 💻 Exploring DSA, Quants and stuff these days...
 
 <br/>  
 
