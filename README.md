@@ -59,7 +59,7 @@
 
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/docker.png" alt="docker" height="50" />  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ros.png" alt="ros" height="50" />    
+ 
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/octave.png" alt="octave" height="50" />  
 
 
@@ -67,12 +67,11 @@
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="50" /> 
-
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ros.png" alt="ros" height="30" />   
 
 </td></tr></table>    
 
 <br/>  
-
 
 ## Stats
 
