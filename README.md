@@ -78,8 +78,8 @@
 <br>
 <p >
   <div align=center>
-    <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit21srivastava&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=vidit21srivastava&show_icons=true&hide_border=true"><img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit21srivastava&layout=compact&hide_border=true">
+    <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit21srivastava&hide_border=true&background=000000&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&date_format=M%20j%5B%2C%20Y%5D">
+    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=vidit21srivastava&show_icons=true&icon_color=f5f5dc&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit21srivastava&layout=compact&hide_border=true&bg_color=000000&text_color=ffffff">
    </div>
                                                                                                                                                   
 </p>
