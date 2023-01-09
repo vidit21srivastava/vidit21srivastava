@@ -23,7 +23,7 @@
 
 - :sparkles: I'm currently developing algorithm to aid robot learning and autonomy.
 - 💻 Exploring Quants and stuff these days...
-- 📑 Open for project collaborations in the fields related of aerial robotics, AI/ML.
+- 📑 Open for project collaborations in the fields related to aerial robotics, AI/ML.
 
 <br/>  
 
