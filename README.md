@@ -43,14 +43,16 @@
 
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/c++.png" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/python.png" alt="python" height="50" />  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/tensorflow.png" alt="tf" height="50" />  
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/tenorflow.svg" alt="tf" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/pytorch.png" alt="pytorch" height="50" />   
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/react.png" alt="react" height="50" /> 
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/sql.png" alt="sql" height="50" />  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/html.png" alt="html" height="50" />  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/css.png" alt="css" height="50" />
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/js.svg" alt="js" height="50" />
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/elixir.png" alt="elixir" height="50" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" height="50" />  
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/javascript-original.svg" alt="js" height="50" />
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/nodejs.svg" alt="nodejs" height="50" />
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/mongodb-original.svg" alt="mdb" height="50" />
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/django.svg" alt="django" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" height="50" //>
+            
    
 
 
@@ -60,13 +62,9 @@
 
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/docker.png" alt="docker" height="50" />  
  
-
-
-
-<!-- 
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />   -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50"  />          
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="30" /> 
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="50" /> 
 
 
 </td></tr></table>    
