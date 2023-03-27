@@ -64,7 +64,7 @@
 
 
 
-<!-- <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />   -->
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="30" /> 
 
