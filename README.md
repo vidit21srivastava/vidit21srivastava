@@ -15,7 +15,10 @@
 </a>
 <a href="https://instagram.com/viditsrivastava.021" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://codeforces.com/profile/vonDoom021" target="_blank">
+<img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 <br/>  
