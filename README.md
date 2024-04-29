@@ -1,5 +1,6 @@
-# Hello, I am Vidit Srivastava !
 
+# Hello, I am Vidit Srivastava !
+<!--
 <div align="center">
 <a href="mailto:vidit21srivastava@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,7 +35,7 @@
 </a>
 
 <br />
-
+-->
 
 ## I Work With
 <table><tr><td align= center width="33%">
