@@ -55,33 +55,19 @@
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/mongodb-original.svg" alt="mdb" height="50" />
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/django.svg" alt="django" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" height="50" //>
-            
-   
-
-
-
-
-
-
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/docker.png" alt="docker" height="50" />  
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50"  />          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50"  />          
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="50" /> 
 
 
 </td></tr></table>    
 
-<br/>  
-
 ## Stats
-
-<br>
 <p >
   <div align=center>
     <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit21srivastava&hide_border=true&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&date_format=M%20j%5B%2C%20Y%5D">
     <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=vidit21srivastava&show_icons=true&icon_color=f5f5dc&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidit21srivastava&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff">
-   </div>
-                                                                                                                                                  
+   </div>                                                                                                                                                  
 </p>
                                                                                                                                                     
