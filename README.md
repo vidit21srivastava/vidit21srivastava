@@ -35,6 +35,9 @@
 </a>
 
 <br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" height="50" //>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="50" /> 
+<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/django.svg" alt="django" height="50" />
 -->
 
 ## I Work With
@@ -48,15 +51,12 @@
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/python.png" alt="python" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/tenorflow.svg" alt="tf" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/pytorch.png" alt="pytorch" height="50" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/javascript-original.svg" alt="js" height="50" />
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/nodejs.svg" alt="nodejs" height="50" />
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/mongodb-original.svg" alt="mdb" height="50" />
-<img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/django.svg" alt="django" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" height="50" //>
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/docker.png" alt="docker" height="50" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50"  />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50"  />          
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://vidit21srivastava.github.io/images/skills/arduino.png" alt="Arduino" height="50" /> 
 
